@@ -1,4 +1,6 @@
-# learn_bash
-Date and time of makefile is Mon Sep 24 21:59:02 EDT 2018
-Num of lines of code is       30
-Author: kiki
+-e # learn_bash 
+
+-e **Date and time of makefile:** Mon Sep 24 22:18:43 EDT 2018 
+
+-e **Num of loc:**       30 
+
